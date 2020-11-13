@@ -65,9 +65,6 @@ For example:
 
 lionel.messsi@barcelona.com, 3, 0.20
 
-
 The results file should be arranged from highest score to lowest score
 
 Finally, write a unit test for the new class.
-
-
